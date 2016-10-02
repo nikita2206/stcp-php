@@ -6,6 +6,7 @@
         "amphp/amp": "^1.2",
         "amphp/socket": "^0.9.9"
     },
+    "autoload": {"psr-4": {"Stcp\\": "src/"}},
     "license": "MIT",
     "authors": [
         {
